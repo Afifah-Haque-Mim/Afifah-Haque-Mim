@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Afifah-Haque-Mim
-- 👀 I’m interested in "Programming"
+- 👀 I’m interested in "Learning Programming"
 - 🌱 I’m currently learning "CS50 Harvard course"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : afifahhaquemim@gmail.com
